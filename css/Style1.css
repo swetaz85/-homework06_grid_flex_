@@ -1,0 +1,22 @@
+*, *::after, *::before{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    body{
+        background-image: url("../img/ava7patterns_wallpaper_240x320_1282.png");
+        font-family: Arial, Helvetica, sans-serif;
+            
+    }
+
+    h1{
+        font-size: 300%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: rgb(132, 0, 255);
+    }
